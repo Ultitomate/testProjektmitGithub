@@ -10,6 +10,9 @@ namespace ÜbungsProjektmitGithub
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Cool C#");
+            Console.ReadKey();
         }
     }
 }
